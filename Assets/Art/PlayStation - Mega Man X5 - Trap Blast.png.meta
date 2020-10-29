@@ -1,0 +1,1936 @@
+fileFormatVersion: 2
+guid: cf617c55113e548c6a01fef47d50c745
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayStation - Mega Man X5 - Trap Blast_0
+    21300002: PlayStation - Mega Man X5 - Trap Blast_1
+    21300004: PlayStation - Mega Man X5 - Trap Blast_2
+    21300006: PlayStation - Mega Man X5 - Trap Blast_3
+    21300008: PlayStation - Mega Man X5 - Trap Blast_4
+    21300010: PlayStation - Mega Man X5 - Trap Blast_5
+    21300012: PlayStation - Mega Man X5 - Trap Blast_6
+    21300014: PlayStation - Mega Man X5 - Trap Blast_7
+    21300016: PlayStation - Mega Man X5 - Trap Blast_8
+    21300018: PlayStation - Mega Man X5 - Trap Blast_9
+    21300020: PlayStation - Mega Man X5 - Trap Blast_10
+    21300022: PlayStation - Mega Man X5 - Trap Blast_11
+    21300024: PlayStation - Mega Man X5 - Trap Blast_12
+    21300026: PlayStation - Mega Man X5 - Trap Blast_13
+    21300028: PlayStation - Mega Man X5 - Trap Blast_14
+    21300030: PlayStation - Mega Man X5 - Trap Blast_15
+    21300032: PlayStation - Mega Man X5 - Trap Blast_16
+    21300034: PlayStation - Mega Man X5 - Trap Blast_17
+    21300036: PlayStation - Mega Man X5 - Trap Blast_18
+    21300038: PlayStation - Mega Man X5 - Trap Blast_19
+    21300040: PlayStation - Mega Man X5 - Trap Blast_20
+    21300042: PlayStation - Mega Man X5 - Trap Blast_21
+    21300044: PlayStation - Mega Man X5 - Trap Blast_22
+    21300046: PlayStation - Mega Man X5 - Trap Blast_23
+    21300048: PlayStation - Mega Man X5 - Trap Blast_24
+    21300050: PlayStation - Mega Man X5 - Trap Blast_25
+    21300052: PlayStation - Mega Man X5 - Trap Blast_26
+    21300054: PlayStation - Mega Man X5 - Trap Blast_27
+    21300056: PlayStation - Mega Man X5 - Trap Blast_28
+    21300058: PlayStation - Mega Man X5 - Trap Blast_29
+    21300060: PlayStation - Mega Man X5 - Trap Blast_30
+    21300062: PlayStation - Mega Man X5 - Trap Blast_31
+    21300064: PlayStation - Mega Man X5 - Trap Blast_32
+    21300066: PlayStation - Mega Man X5 - Trap Blast_33
+    21300068: PlayStation - Mega Man X5 - Trap Blast_34
+    21300070: PlayStation - Mega Man X5 - Trap Blast_35
+    21300072: PlayStation - Mega Man X5 - Trap Blast_36
+    21300074: PlayStation - Mega Man X5 - Trap Blast_37
+    21300076: PlayStation - Mega Man X5 - Trap Blast_38
+    21300078: PlayStation - Mega Man X5 - Trap Blast_39
+    21300080: PlayStation - Mega Man X5 - Trap Blast_40
+    21300082: PlayStation - Mega Man X5 - Trap Blast_41
+    21300084: PlayStation - Mega Man X5 - Trap Blast_42
+    21300086: PlayStation - Mega Man X5 - Trap Blast_43
+    21300088: PlayStation - Mega Man X5 - Trap Blast_44
+    21300090: PlayStation - Mega Man X5 - Trap Blast_45
+    21300092: PlayStation - Mega Man X5 - Trap Blast_46
+    21300094: PlayStation - Mega Man X5 - Trap Blast_47
+    21300096: PlayStation - Mega Man X5 - Trap Blast_48
+    21300098: PlayStation - Mega Man X5 - Trap Blast_49
+    21300100: PlayStation - Mega Man X5 - Trap Blast_50
+    21300102: PlayStation - Mega Man X5 - Trap Blast_51
+    21300104: PlayStation - Mega Man X5 - Trap Blast_52
+    21300106: PlayStation - Mega Man X5 - Trap Blast_53
+    21300108: PlayStation - Mega Man X5 - Trap Blast_54
+    21300110: PlayStation - Mega Man X5 - Trap Blast_55
+    21300112: PlayStation - Mega Man X5 - Trap Blast_56
+    21300114: PlayStation - Mega Man X5 - Trap Blast_57
+    21300116: PlayStation - Mega Man X5 - Trap Blast_58
+    21300118: PlayStation - Mega Man X5 - Trap Blast_59
+    21300120: PlayStation - Mega Man X5 - Trap Blast_60
+    21300122: PlayStation - Mega Man X5 - Trap Blast_61
+    21300124: PlayStation - Mega Man X5 - Trap Blast_62
+    21300126: PlayStation - Mega Man X5 - Trap Blast_63
+    21300128: PlayStation - Mega Man X5 - Trap Blast_64
+    21300130: PlayStation - Mega Man X5 - Trap Blast_65
+    21300132: PlayStation - Mega Man X5 - Trap Blast_66
+    21300134: PlayStation - Mega Man X5 - Trap Blast_67
+    21300136: PlayStation - Mega Man X5 - Trap Blast_68
+    21300138: PlayStation - Mega Man X5 - Trap Blast_69
+    21300140: PlayStation - Mega Man X5 - Trap Blast_70
+    21300142: PlayStation - Mega Man X5 - Trap Blast_71
+    21300144: PlayStation - Mega Man X5 - Trap Blast_72
+    21300146: PlayStation - Mega Man X5 - Trap Blast_73
+    21300148: PlayStation - Mega Man X5 - Trap Blast_74
+    21300150: PlayStation - Mega Man X5 - Trap Blast_75
+    21300152: PlayStation - Mega Man X5 - Trap Blast_76
+    21300154: PlayStation - Mega Man X5 - Trap Blast_77
+    21300156: PlayStation - Mega Man X5 - Trap Blast_78
+    21300158: PlayStation - Mega Man X5 - Trap Blast_79
+    21300160: PlayStation - Mega Man X5 - Trap Blast_80
+    21300162: PlayStation - Mega Man X5 - Trap Blast_81
+    21300164: PlayStation - Mega Man X5 - Trap Blast_82
+    21300166: PlayStation - Mega Man X5 - Trap Blast_83
+    21300168: PlayStation - Mega Man X5 - Trap Blast_84
+    21300170: PlayStation - Mega Man X5 - Trap Blast_85
+    21300172: PlayStation - Mega Man X5 - Trap Blast_86
+    21300174: PlayStation - Mega Man X5 - Trap Blast_87
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55241512a35714dbb989cc3100432e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41399abc36dd24c4e9137e25fdb6f592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 213
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82518c2d1e54bc980874038152ae20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 213
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b68214fee1624faea2069256d8cd30e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df992ad7dee34421fa8a3c10a336f7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 180
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40862c8c34234eac9a0b3537ac30f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 196
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc7cb508ef44b88ae6d97836a5acfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda26e86d4a9c46b8827a40a932ca2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 196
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9fccacae4c74e90a1e8261f2782a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 196
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a53109201bac4d8fbdb8d7379bceed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672191de2ecc84daf8a9e9b41db13293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 197
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3145738d2eb458eb841ce55d7d6604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 196
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71093b91c4f7b4f968c42122f4cbd728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ed1631a6ad4b8ebe0ba51b6863bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 196
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4753d3d2ae8204cb280705d4b955bf59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 177
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0cdc8abfc9746b0a563536643ace1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 181
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5142cf5ffda2841ef8736389e8880c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 181
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2543386f8bf48b683796592d446c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 181
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d89a4cc3e847c4ba93a4a70d24643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 181
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54aa5ce83cce4f8f861ee8515fa0db0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63857ec148d94792b9f9481444461e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5e04b12ebe84b559b2199f061bdcdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbcd2faadc8442d49fe04fe59d3d57b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f31636e60f14b9ab73e114d91d2665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1704e8a870eb447cea2947eca8e60b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 159
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c93c0ad4e4462fb548a01d4e7b1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 154
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79ce22f0e6b4f64a62fef0fcd93572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28254f63c9274a4685c80a2e7e12d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 151
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10f0a5463e44d8a80e1af7a6af6a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 151
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec1aa26f59d43518adf27c531cd4e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 118
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8775a4ef864274ab842e16fd6637b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 151
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446926349c6404648bb77962fa9a52af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8de761e21af4cb9a6b280fe06f98ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 134
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50ebc2853394a9b99e2b3a39e5445a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73015ee4563c84bff908e74cfa33be47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3eb312f66a549c1ba58bc8fb3a39ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b22f5c48c3f4d1d8f97788bc969133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906fc83120fba420ebf7a01e7ba321aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 75
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf59bae42f7348cbacf1d2681314d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71602a7db214622a2708f5ee3bb114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a678570dd9284e19ad312599fcaf83d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a79f44aa874b17bfbf671fbcc7daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae9affe49c941459d78ae53904488b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e008a0fba048b686d8bc5664101c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab316fb3ad8e4623b36af17023a5082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeeac2d9958c4c6496d72f5b41b5391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3ead0a918c4b5488499db3fc413b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 79
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5aaa28ea0942e782eecdeb85abb85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 79
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb156935528bc49358b277b159424451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d265467c5b4256b8cf8b96e2009a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b7af98598f4d89ace2015a2d3f59d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a7ce1fb7e364444a41d7a8c866fa66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d510059f684844fca35ce5946836ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441b6fa842e94cbba833fd33ca42cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d18128fdd3e4e97bac171ba186f6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9016b2e243a06420cab04c2bc79e605f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_56
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 42
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a474bce19d48f5a17a42ba4cc4afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b74d0811f684816962cbf217fb64b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 41
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8eb42b267f5442daea61829428d175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c5bdc523ab44c5857ee48abe32ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316076048aa01464f91d1f27e3efe0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_61
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cd905980f3d48ec8955db1ce097bad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f67c8a53b2cf4cdcb3e342089a4962e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f1ec18b59d64c85ad6f97a53b8aadd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e131a2c082b426db3b6811e4a30f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb003db903614c91be0d41725dfea6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429a386283c74e83bb2b152b7c2c1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c730b23d474743cb981f69da6932b6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc5d580e6a2f4fc4a930e0ce5675dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7234a3de78d449c0a8668ee8381c2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_70
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 21
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89323500f698b4328829f3abf733729d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ec5acfbd114edaac5f5548a40b62f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d12bdb27c7143eba9a283515b745f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a665c4ad563144da9756ee6255ca6ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84228350236942a0b11b980fc512122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04ac86c51724501880abbba63b490c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde47ad8ca7947769b4ce084457357e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529de82af5c8649969d592bb3494adb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_78
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a717ea70dc41e0a99dea0308bedbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab0357941a1145388412af195ac613b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5d95efe0e24b79a2e6bd2a2ff3245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_81
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0235cde28ba49f68724910403f8209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f22ae8cd9c0426eade382f6bc7efb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef766b89bda44b28ddd07980867190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636eca11edec47fcb13615002f2804f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4f48e0910d417f9d17d36be61b03c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5cdc50d584d4e41b842719516aabed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Trap Blast_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf5d2a9f42a4d7791bbf370ca89eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1002bab02f1b4d8badeb08ff117a509
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
