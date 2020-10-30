@@ -5,6 +5,7 @@ using Unity.Collections;
 using UnityEngine;
 using UnityEngine.Experimental.LowLevel;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class PlayerController2D : MonoBehaviour
 {
@@ -18,15 +19,22 @@ public class PlayerController2D : MonoBehaviour
     public float movespeed;
 
     private bool isGrounded;
+    
     [SerializeField]
     private Transform groundCheck;
     
+    [SerializeField]
+    private TextMeshProUGUI lives;
+
+    [SerializeField]
+    private GameOver gameOver;
     
     //combat
 
     private int health = 6;
 
-    private float invinsibleTimeafterHurt = 2;
+    private float invinsibleTimeafterHurt = 3;
+    private bool movementDisabled;
     
     Collider2D[] myCols;
     // Start is called before the first frame update
@@ -37,6 +45,7 @@ public class PlayerController2D : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        movementDisabled = false;
 
     }
 
@@ -48,6 +57,8 @@ public class PlayerController2D : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (movementDisabled)
+            return;
         if (Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Platforms")))
         {
             isGrounded = true;
@@ -82,6 +93,9 @@ public class PlayerController2D : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, 23);
             animator.Play("Player_Jump");
         }
+        
+        lives.text = "Lives: " + health/2;
+        
     }
 
    void Hurt()
@@ -90,7 +104,13 @@ public class PlayerController2D : MonoBehaviour
        if (health <= 0)
        {
            
-           Application.LoadLevel(Application.loadedLevel);
+           //Application.LoadLevel(Application.loadedLevel);
+           GetComponent<BoxCollider2D>().enabled = false;
+           gameOver.gameObject.SetActive(true);
+           movementDisabled = true;
+           lives.text = "Lives: " + 0;
+
+
        }
        else
        {
@@ -130,22 +150,25 @@ public class PlayerController2D : MonoBehaviour
         BatMovement bat = col.collider.GetComponent<BatMovement>();
         if (bat != null||ghost!=null)
         {
-            // foreach (ContactPoint2D point in col.contacts)
-            // {
-                // Debug.Log(point.normal);
-                // Debug.DrawLine(point.point,point.point+point.normal,Color.red,10);
-                // if (point.normal.y >= 0.9)
-                // {
-                //     if(ghost!=null)
-                //         ghost.Hurt();
-                //     else if (bat != null)
-                //         bat.Hurt();
-                // }
-                //else
+            /*foreach (ContactPoint2D point in col.contacts)
+            {
+                Debug.Log(point.normal);
+                Debug.DrawLine(point.point,point.point+point.normal,Color.red,10);
+                if (point.normal.y >= 0.9)
                 {
-                    Hurt();   
+                    if(ghost!=null)
+                        ghost.Hurt();
+                    else if (bat != null)
+                        bat.Hurt();
                 }
-            //}
+                else
+                {*/
+                    Hurt();   
+            //     }
+            // }
+            // {
+            //     
+            // }
             
         }
     }
