@@ -9,6 +9,13 @@ public class BatMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteRenderer;
+    
+    
+    [SerializeField]
+    private float leftLimit;
+
+    [SerializeField]
+    private float rightLimit;
    
  
     
@@ -28,18 +35,18 @@ public class BatMovement : MonoBehaviour
     void FixedUpdate()
     {
 
-        if (gameObject.transform.position.x >= 33)
+        if (gameObject.transform.position.x >= rightLimit)
         {
 
             rb.velocity = new Vector2(moveLeft, 0);
-            spriteRenderer.flipX = false;
+            spriteRenderer.flipX = true;
         }
 
-        if (gameObject.transform.position.x  <=25 )
+        if (gameObject.transform.position.x  <=leftLimit )
         {
           
             rb.velocity = new Vector2(moveRight, 0);
-            spriteRenderer.flipX = true;
+            spriteRenderer.flipX = false;
         }
             
 

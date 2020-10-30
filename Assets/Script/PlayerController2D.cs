@@ -24,7 +24,7 @@ public class PlayerController2D : MonoBehaviour
     
     //combat
 
-    private int health = 3;
+    private int health = 6;
 
     private float invinsibleTimeafterHurt = 2;
     
@@ -130,25 +130,22 @@ public class PlayerController2D : MonoBehaviour
         BatMovement bat = col.collider.GetComponent<BatMovement>();
         if (bat != null||ghost!=null)
         {
-            foreach (ContactPoint2D point in col.contacts)
-            {
-                Debug.Log(point.normal);
-                Debug.DrawLine(point.point,point.point+point.normal,Color.red,10);
-                if (point.normal.y >= 0.9)
-                {
-                    if(ghost!=null)
-                        ghost.Hurt();
-                    else if (bat != null)
-                        bat.Hurt();
-                }
-                else
+            // foreach (ContactPoint2D point in col.contacts)
+            // {
+                // Debug.Log(point.normal);
+                // Debug.DrawLine(point.point,point.point+point.normal,Color.red,10);
+                // if (point.normal.y >= 0.9)
+                // {
+                //     if(ghost!=null)
+                //         ghost.Hurt();
+                //     else if (bat != null)
+                //         bat.Hurt();
+                // }
+                //else
                 {
                     Hurt();   
                 }
-            }
-            {
-                
-            }
+            //}
             
         }
     }

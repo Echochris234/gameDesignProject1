@@ -7,6 +7,13 @@ public class GhostMovement : MonoBehaviour
     public float moveLeft;
     public float moveRight;
     private Rigidbody2D rb;
+    private SpriteRenderer spriteRenderer;
+
+    [SerializeField]
+    private float leftLimit;
+
+    [SerializeField]
+    private float rightLimit;
     // Start is called before the first frame update
     void Awake()
     {
@@ -17,22 +24,23 @@ public class GhostMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (gameObject.transform.position.x >= 18)
+        if (gameObject.transform.position.x >= rightLimit)
         {
 
             rb.velocity = new Vector2(moveLeft, 0);
-            transform.eulerAngles = Vector3.zero;
+            spriteRenderer.flipX = true;
         }
 
-        if (gameObject.transform.position.x  <=3 )
+        if (gameObject.transform.position.x  <=leftLimit )
         {
             rb.velocity = new Vector2(moveRight, 0);
-            transform.eulerAngles = new Vector3(0,180,0);
+            spriteRenderer.flipX = false;
         }
 
         
