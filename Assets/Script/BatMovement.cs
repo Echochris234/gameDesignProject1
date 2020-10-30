@@ -7,12 +7,10 @@ public class BatMovement : MonoBehaviour
     public float moveLeft;
     public float moveRight;
     private Rigidbody2D rb;
-    public float moveCounter = 0;
-    private bool goUp=true;
-    private bool goDown=false;
-    private int vert;
-    
-    // Start is called before the first frame update
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+   
+ 
     
     void Awake()
     {
@@ -20,44 +18,39 @@ public class BatMovement : MonoBehaviour
     }
     void Start()
     {
+        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
 
         if (gameObject.transform.position.x >= 33)
         {
 
-            rb.velocity = new Vector2(moveLeft, vert);
-            transform.eulerAngles = Vector3.zero;
+            rb.velocity = new Vector2(moveLeft, 0);
+            spriteRenderer.flipX = false;
         }
 
         if (gameObject.transform.position.x  <=25 )
         {
-            /*
-            if (goUp)
-            {
-                vert = 1;
-                goUp = false;
-                goDown = true;
-            }else if (goDown)
-            {
-                vert = -1;
-                goDown = false;
-                goUp = true;
-            }
-            */
-            rb.velocity = new Vector2(moveRight, vert);
-            transform.eulerAngles = new Vector3(0,180,0);
+          
+            rb.velocity = new Vector2(moveRight, 0);
+            spriteRenderer.flipX = true;
         }
             
 
 
     }
     
+    public void Hurt()
+    {
+        
+        Destroy(this.gameObject);
+    }
     void OnCharDeath()
     {
         

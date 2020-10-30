@@ -22,7 +22,7 @@ public class GhostMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (gameObject.transform.position.x >= 20)
+        if (gameObject.transform.position.x >= 18)
         {
 
             rb.velocity = new Vector2(moveLeft, 0);
@@ -36,6 +36,12 @@ public class GhostMovement : MonoBehaviour
         }
 
         
+    }
+
+    public void Hurt()
+    {
+        
+        Destroy(this.gameObject);
     }
 
     void OnCharDeath()
