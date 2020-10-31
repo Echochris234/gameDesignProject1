@@ -25,22 +25,25 @@ public class PlayerController2D : MonoBehaviour
     
     [SerializeField]
     private TextMeshProUGUI lives;
+    
 
     [SerializeField]
     private GameOver gameOver;
     
     //combat
 
-    private int health = 6;
+    private int health = 3;
 
-    private float invinsibleTimeafterHurt = 3;
+    private float invinsibleTimeafterHurt =1;
     private bool movementDisabled;
+    public int itemCount;
     
     Collider2D[] myCols;
     // Start is called before the first frame update
     void Start()
     {
       //  instance = this;
+        itemCount = 0;
         myCols = this.GetComponents<Collider2D>();
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
@@ -57,6 +60,7 @@ public class PlayerController2D : MonoBehaviour
 
     private void FixedUpdate()
     {
+        
         if (movementDisabled)
             return;
         if (Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Platforms")))
@@ -94,22 +98,22 @@ public class PlayerController2D : MonoBehaviour
             animator.Play("Player_Jump");
         }
         
-        lives.text = "Lives: " + health/2;
+        lives.text = "Lives: " + health;
         
     }
 
    void Hurt()
    {
        health--;
-       if (health <= 0)
+       if (health == 0)
        {
            
            //Application.LoadLevel(Application.loadedLevel);
            GetComponent<BoxCollider2D>().enabled = false;
            gameOver.gameObject.SetActive(true);
            movementDisabled = true;
+           Debug.Log(itemCount);
            lives.text = "Lives: " + 0;
-
 
        }
        else
@@ -127,6 +131,7 @@ public class PlayerController2D : MonoBehaviour
        Physics2D.IgnoreLayerCollision(enemyLayer,playerLayer);
        foreach(Collider2D collider in myCols)
        {
+           
            collider.enabled = false;
            collider.enabled = true;
            
@@ -150,26 +155,14 @@ public class PlayerController2D : MonoBehaviour
         BatMovement bat = col.collider.GetComponent<BatMovement>();
         if (bat != null||ghost!=null)
         {
-            /*foreach (ContactPoint2D point in col.contacts)
-            {
-                Debug.Log(point.normal);
-                Debug.DrawLine(point.point,point.point+point.normal,Color.red,10);
-                if (point.normal.y >= 0.9)
-                {
-                    if(ghost!=null)
-                        ghost.Hurt();
-                    else if (bat != null)
-                        bat.Hurt();
-                }
-                else
-                {*/
-                    Hurt();   
-            //     }
-            // }
-            // {
-            //     
-            // }
+            Hurt();   
+  
             
         }
+    }
+
+    void incrementItems()
+    {
+        itemCount++;
     }
 }
