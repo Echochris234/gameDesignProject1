@@ -335,7 +335,7 @@ gameplay.
 
 ```
 Figure 1 Arizona iced tea sprite
-assets/art/Arizona.png
+<img src ="assets/art/Arizona.png"/>
 ```
 ```
 Figure 2 Bacon, egg, and cheese sprite
