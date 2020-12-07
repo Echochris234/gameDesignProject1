@@ -23,7 +23,7 @@ November 8 , 2020
 ```
 
 ## Table of Contents
-
+```
 **Glossary of Terms and Abbreviations p**. **3
 Game Narrative p. 4**
 I. Main Character: Tony Giovanni
@@ -62,6 +62,7 @@ I. Figure 10 p. 15
 II. Figure 1 1
 III. Figure 1 2 p. 16
 **Team Member Roles and Contributions p. 17**
+```
 
 
 ## Glossary of Terms and Abbreviations
