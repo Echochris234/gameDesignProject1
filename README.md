@@ -14,9 +14,7 @@ Fuhgeddaboutit Gaming
 ```
 Written by:
 Christian Vargas-Polo
-Arielle B. Watson
 Titus Wen
-Michael Fertig
 ```
 ```
 November 8 , 2020
@@ -384,7 +382,7 @@ Figure 10 Move left state mechanic
 **Christian Vargas-Polo:** _Backend/Graphics/Specs_
 Specs:
 
-- Created the narrative alongside Arielle and Titus
+- Created the narrative alongside Titus
 - Initial outlining of the game design document
 Graphics:
 - Created sprites for the collectible items
@@ -393,16 +391,6 @@ Backend:
 Worked on the main functionality and visuals of the game,
 including camera, character, and monster mechanics
 
-**Arielle Watson:** _Specs/QA_
-Specs:
-
-- Created the game design document
-- Created game studio logo, play button, quit button and
-    game name
-- Created state machines for game mechanics
-QA:
-Refined scope of the game, and adjusted the document as
-the game evolved
 
 **Titus Wen:** _Backend/QA_
 Backend:
@@ -412,14 +400,6 @@ Backend:
 QA:
 Refined character movement mechanics and remaining life
 indicator
-
-**Michael Fertig:** _Backend/QA_
-Backend:
-
-- Created the settings menu and audio settings
-- Added additional music
-QA:
-Improved the main menu
 
 
 
